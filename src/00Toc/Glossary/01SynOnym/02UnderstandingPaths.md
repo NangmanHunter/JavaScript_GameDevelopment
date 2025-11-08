@@ -1,0 +1,4 @@
+- 02UnderstandingPaths
+- UnderstandingPaths
+- Understanding Paths
+- Understanding Path

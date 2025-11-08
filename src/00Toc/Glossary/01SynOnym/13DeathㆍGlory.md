@@ -1,0 +1,3 @@
+- DeathㆍGlory
+- 13DeathㆍGlory
+- Death or Glory
