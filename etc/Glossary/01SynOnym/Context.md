@@ -1,0 +1,18 @@
+- Context
+- context
+- context = CanvasRenderingContext2D 객체
+- context는 캔버스에서 그림을 실제로 그리는 도구(렌더링 엔진)이야.
+- canvas.getContext("2d")는
+- HTML `<canvas>` 요소에서 2D 그래픽을 그릴 수 있도록 해주는 객체를 반환함.
+- 그래서 이 객체를 통해: 선 긋기
+- 그래서 이 객체를 통해: 원 그리기
+- 그래서 이 객체를 통해: 사각형 그리기
+- 그래서 이 객체를 통해: 이미지 그리기
+- 그래서 이 객체를 통해: 텍스트 그리기
+- 그래서 이 객체를 통해: 색 칠하기
+- 그래서 이 객체를 통해: 좌표 이동/회전/스케일
+- 그래서 이 객체를 통해: 픽셀 조작
+- 같은 모든 캔버스 그래픽 기능을 수행할 수 있음.
+- [MDN_CanvasRenderingContext2D](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
+- The CanvasRenderingContext2D interface, part of the Canvas API, provides the 2D rendering context for the drawing surface of a `<canvas>` element. 
+- It is used for drawing shapes, text, images, and other objects.
